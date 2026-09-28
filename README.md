@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Youcef Benslimani (يوسف بن سليماني)
+## Hi there 👋 I'm Youcef Benslimani 
 
 I am a software developer passionate about building custom tools tailored to specific community needs or discovering new technologies that streamline and enhance various digital services.
 
